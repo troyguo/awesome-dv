@@ -18,11 +18,22 @@
 ### interfaces
 
 - apb-vip-uvm: https://github.com/zhangyl4991/apb-vip-uvm
+
 - axi-uvm:  https://github.com/marcoz001/axi-uvm
+
 - tvip-axi: https://github.com/taichi-ishitani/tvip-axi
+
 - i2c-vip-uvm: https://github.com/zhangyl4991/i2c-vip-uvm
+
 - tnoc:  https://github.com/taichi-ishitani/tnoc
+
 - SDRAM-Verification: https://github.com/yvnr4you/SDRAM-Verification
+
+- ethernet_10ge_mac_SV_UVM_tb: https://github.com/andres-mancera/ethernet_10ge_mac_SV_UVM_tb
+
+### For Newbie
+- Practical-UVM-Step-By-Step: https://github.com/Practical-UVM-Step-By-Step/Practical-UVM-Step-By-Step
+- uvmprimer: https://github.com/rdsalemi/uvmprimer
 
   
 
