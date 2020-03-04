@@ -40,17 +40,34 @@
 ## Design
 
 - Cores-SweRV: https://github.com/chipsalliance/Cores-SweRV
--  e200_opensource: https://github.com/SI-RISCV/e200_opensource
+
+- e200_opensource: https://github.com/SI-RISCV/e200_opensource
+
 - ariane: https://github.com/pulp-platform/ariane
+
 - rsd: https://github.com/rsd-devel/rsd
+
 - ultraembedded_riscv: https://github.com/ultraembedded/riscv
+
 - ultraembedded_ipcores: https://github.com/ultraembedded/cores
+
 - schoolMIPS: https://github.com/MIPSfpga/schoolMIPS
+
 - patmos: https://github.com/t-crest/patmos
+
 - verilog-pcie: https://github.com/alexforencich/verilog-pcie
+
 - verilog-axi: https://github.com/alexforencich/verilog-axi
+
 - wb2axi: https://github.com/ZipCPU/wb2axip
+
 - alice5: https://github.com/bradgrantham/alice5
+
+- black-parrot: https://github.com/black-parrot/black-parrot
+
+  BlackParrot aims to be the default Linux-capable, cache-coherent, RV64GC multicore used by the world.
+
+  
 
 
 
