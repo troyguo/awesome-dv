@@ -67,6 +67,11 @@
 
   BlackParrot aims to be the default Linux-capable, cache-coherent, RV64GC multicore used by the world.
 
+- zet:  https://github.com/marmolejo/zet
+  Open source implementation of a x86 processor 
+
+- ao486: https://github.com/alfikpl/ao486
+  The ao486 is an x86 compatible Verilog core implementing all features of a 486 SX.
   
 
 
