@@ -73,6 +73,9 @@
 - ao486: https://github.com/alfikpl/ao486
   The ao486 is an x86 compatible Verilog core implementing all features of a 486 SX.
   
+- VexRiscv: https://github.com/SpinalHDL/VexRiscv
+  A FPGA friendly 32 bit RISC-V CPU implementation from SpinalHDL
+  
 
 
 
