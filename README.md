@@ -63,17 +63,17 @@
 
 - alice5: https://github.com/bradgrantham/alice5
 
-- black-parrot: https://github.com/black-parrot/black-parrot
+- black-parrot: https://github.com/black-parrot/black-parrot  
 
   BlackParrot aims to be the default Linux-capable, cache-coherent, RV64GC multicore used by the world.
 
-- zet:  https://github.com/marmolejo/zet
+- zet:  https://github.com/marmolejo/zet  
   Open source implementation of a x86 processor 
 
-- ao486: https://github.com/alfikpl/ao486
+- ao486: https://github.com/alfikpl/ao486  
   The ao486 is an x86 compatible Verilog core implementing all features of a 486 SX.
   
-- VexRiscv: https://github.com/SpinalHDL/VexRiscv
+- VexRiscv: https://github.com/SpinalHDL/VexRiscv  
   A FPGA friendly 32 bit RISC-V CPU implementation from SpinalHDL
   
 
