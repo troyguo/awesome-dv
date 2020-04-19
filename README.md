@@ -21,6 +21,10 @@
 
 - axi-uvm:  https://github.com/marcoz001/axi-uvm
 
+- amba3-vip: amba3 apb/axi vip
+
+  https://github.com/luuvish/amba3-vip
+
 - tvip-axi: https://github.com/taichi-ishitani/tvip-axi
 
 - i2c-vip-uvm: https://github.com/zhangyl4991/i2c-vip-uvm
@@ -77,6 +81,9 @@
 - VexRiscv: https://github.com/SpinalHDL/VexRiscv  
   A FPGA friendly 32 bit RISC-V CPU implementation from SpinalHDL
   
+- hadbadge2019_fpgasoc:  FPGA SoC code and application example for Hackaday Supercon 2019 badge
+  
+  https://github.com/Spritetm/hadbadge2019_fpgasoc
 
 
 
