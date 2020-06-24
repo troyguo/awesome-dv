@@ -12,6 +12,7 @@
 - openhmc: https://github.com/unihd-cag/openhmc
 - riscv-vip: https://github.com/jerralph/riscv-vip
 - ISP-UVM: https://github.com/nelsoncsc/ISP_UVM
+- force-riscv: https://github.com/openhwgroup/force-riscv
 
 
 
