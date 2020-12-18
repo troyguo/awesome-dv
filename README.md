@@ -23,6 +23,7 @@
 - force-riscv: https://github.com/openhwgroup/force-riscv
 
 - core-v-isg:   https://github.com/openhwgroup/core-v-isg
+- MPSoC-DV:     https://github.com/PacoReinaCampo/MPSoC-DV
 
   
 
