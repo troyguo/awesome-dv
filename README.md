@@ -99,7 +99,11 @@
 - hadbadge2019_fpgasoc:  FPGA SoC code and application example for Hackaday Supercon 2019 badge
   
   https://github.com/Spritetm/hadbadge2019_fpgasoc
-
+  
+- vortexgpgpu Vortex is a full-system RISCV-based GPGPU processor.
+  https://github.com/vortexgpgpu/vortex
+  
+ 
 
 
 ## Virtual Prototyping
