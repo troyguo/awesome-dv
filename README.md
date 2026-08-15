@@ -33,6 +33,12 @@
 - 
   
 
+- Coherex: https://github.com/3more102/Coherex
+  Four-layer MESI cache-coherence verification: exhaustive protocol model checking, RTL simulation, litmus tests judged against a sequential-consistency oracle, and mutation-qualified checkers.
+
+- mutanthunt-i2c: https://github.com/3more102/mutanthunt-i2c
+  I2C master verification environment that proves the testbench itself works: 36/38 injected RTL defects killed via mutation testing, both survivors proved rather than excused.
+
 ### interfaces
 
 - apb-vip-uvm: https://github.com/zhangyl4991/apb-vip-uvm
