@@ -60,6 +60,7 @@
 - Practical-UVM-Step-By-Step: https://github.com/Practical-UVM-Step-By-Step/Practical-UVM-Step-By-Step
 - uvmprimer: https://github.com/rdsalemi/uvmprimer
 - UVM Tutorial for Candy Lovers: https://github.com/cluelogic/uvm-tutorial-for-candy-lovers
+- ChipXpert SystemVerilog/UVM/Verification tutorials: https://chipxpert.in/tutorials/systemverilog/
 
   
 
